@@ -1,2 +1,2 @@
 # orbital
-Orbit determination methods.
+<code>orbital</code> is an orbit and trajectory design and analysis tool.
